@@ -19,6 +19,9 @@
   go into the CLI of the relevent file and type "npm install", then once the dependencies have been installed, please type "npm start" into the CLI
 
   ## Usage
+  Dependencies - Express 
+               - Inquirer
+               - mysql2
   All useage comes from the CLI 
 
   ## Licenses
